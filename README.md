@@ -12,3 +12,6 @@
 -	它包含了所有實際的電腦視覺運算函式，例如 find_corners_from_images、calibrate_camera、detect_and_match_sift、transform_image 等。
 3.	MainWindow-cvdlhw1.ui負責組成專案的UI介面
 -	它定義了所有視窗、按鈕、輸入框和標籤的佈局與外觀，main_app.py 會在執行時讀取此檔案來建立使用者介面。
+
+### 補充
+因資料集過大，故沒有放到GitHub上
