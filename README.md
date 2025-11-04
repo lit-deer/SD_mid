@@ -1,8 +1,7 @@
-# SD_mid
-軟體設計期中專案
+# 軟體設計期中專案
 
 ## 專案簡介
-本專案為「電腦視覺與深度學習」的作業，專案內容為實作四項主要的電腦視覺任務，包含：相機校準 (Camera Calibration)、擴增實境 (Augmented Reality)、立體視差圖 (Stereo Disparity Map)、SIFT 特徵點配對。
+本專案內容為實作四項主要的電腦視覺任務，包含：相機校準 (Camera Calibration)、擴增實境 (Augmented Reality)、立體視差圖 (Stereo Disparity Map)、SIFT 特徵點配對。
 整個專案分成三個主要檔案: main_app.py, cv_functions.py, MainWindow-cvdlhw1.ui。
 1.	main_app.py負責作為專案的控制中心
 -	載入 .ui 檔案來建立視覺介面。
